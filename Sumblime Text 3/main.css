@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+.wrapper {
+	height: 60px;
+	background-color: #212121;
+}
+
+.topnav {
+	max-width: 500px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	height: 100%;
+	-ms-align-items: center;
+	align-items: center;
+}
